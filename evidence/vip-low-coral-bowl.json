@@ -1,0 +1,68 @@
+{
+  "project": "DenRakEiw/scumble",
+  "upstream_sha": "0d0be6b3e41f00e8621af14fe11597eaf258501f",
+  "checkedDate": "2026-10-13",
+  "case": {
+    "id": "vip-low-coral-bowl",
+    "route": "vip-low",
+    "prompt": "Commercial product photography of one matte coral-orange ceramic bowl with a low sculptural foot, seen from a front three-quarter angle on a pale travertine plinth. Warm cream studio, soft morning light, subtle contact shadow, crisp ceramic texture, square composition, one product, no text, no logo, no watermark."
+  },
+  "status": "completed",
+  "task_id": "tsk_img_01M4SH0H4KEX70GTADS98DE7NK",
+  "info": {
+    "model": "gpt-image-2-vip",
+    "channel": "vip",
+    "task": "tsk_img_01M4SH0H4KEX70GTADS98DE7NK",
+    "size": "1:1",
+    "resolution": "1k",
+    "cost_usd": null,
+    "credits": null
+  },
+  "elapsed_seconds": 25.37,
+  "sha256": "bfacc657fb6571a32e9cf9e54c895b54ae6c3c1bcbb693d9df702fba26b65dc9",
+  "observations": [
+    {
+      "status": "in_progress",
+      "billing": {
+        "status": "pending"
+      }
+    },
+    {
+      "status": "in_progress",
+      "billing": {
+        "status": "pending"
+      }
+    },
+    {
+      "status": "completed",
+      "billing": null
+    }
+  ],
+  "method": "real upstream ToAPIs provider.generate/edit",
+  "scope": "provider module; Electron canvas and layer export not tested",
+  "postCount": 1,
+  "pixels": [
+    1024,
+    1024
+  ],
+  "billing_recheck": {
+    "project": "Scumble",
+    "task_id": "tsk_img_01M4SH0H4KEX70GTADS98DE7NK",
+    "status": "completed",
+    "billing": null,
+    "checkedDate": "2026-10-13",
+    "http": 200
+  },
+  "actual_cost_usd": "0.00190",
+  "actual_charge": {
+    "case": "vip-low-coral-bowl",
+    "task_id": "tsk_img_01M4SH0H4KEX70GTADS98DE7NK",
+    "model": "gpt-image-2-vip",
+    "credits": "0.38",
+    "cost_usd": "0.00190",
+    "source": "User-provided dashboard screenshot; visible task prefix matched to local full task ID",
+    "checkedDate": "2026-10-13",
+    "conversion": "1 credit = USD 0.005 (confirmed by account owner)",
+    "api_billing": null
+  }
+}

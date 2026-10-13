@@ -1,0 +1,81 @@
+{
+  "project": "DenRakEiw/scumble",
+  "upstream_sha": "0d0be6b3e41f00e8621af14fe11597eaf258501f",
+  "checkedDate": "2026-10-13",
+  "case": {
+    "id": "vip-low-interior-bowl",
+    "route": "vip-low",
+    "input": "vip-low-coral-bowl/result.png",
+    "prompt": "Keep the coral-orange ceramic bowl from the reference and place it on a calm oak dining table in a sunlit warm-beige interior. Soft linen curtain shadows, no other products, no text, no logos, square lifestyle product photography. Preserve the recognizable coral glaze and shape; change the environment."
+  },
+  "status": "completed",
+  "task_id": "tsk_img_01M4SH2F456P313XFEFPZ6DK1P",
+  "info": {
+    "model": "gpt-image-2-vip",
+    "channel": "vip",
+    "task": "tsk_img_01M4SH2F456P313XFEFPZ6DK1P",
+    "size": "1:1",
+    "resolution": "1k",
+    "cost_usd": null,
+    "credits": null
+  },
+  "elapsed_seconds": 44.13,
+  "sha256": "b8dc484e89a30e530b84d1762daa73174ae9f18dcb6f76a55f8921889ecac1cf",
+  "observations": [
+    {
+      "status": "in_progress",
+      "billing": {
+        "status": "pending"
+      }
+    },
+    {
+      "status": "in_progress",
+      "billing": {
+        "status": "pending"
+      }
+    },
+    {
+      "status": "in_progress",
+      "billing": {
+        "status": "pending"
+      }
+    },
+    {
+      "status": "in_progress",
+      "billing": {
+        "status": "pending"
+      }
+    },
+    {
+      "status": "completed",
+      "billing": null
+    }
+  ],
+  "method": "real upstream ToAPIs provider.generate/edit",
+  "scope": "provider module; Electron canvas and layer export not tested",
+  "postCount": 1,
+  "pixels": [
+    1024,
+    1024
+  ],
+  "billing_recheck": {
+    "project": "Scumble",
+    "task_id": "tsk_img_01M4SH2F456P313XFEFPZ6DK1P",
+    "status": "completed",
+    "billing": null,
+    "checkedDate": "2026-10-13",
+    "http": 200
+  },
+  "actual_cost_usd": "0.00190",
+  "actual_charge": {
+    "case": "vip-low-interior-bowl",
+    "task_id": "tsk_img_01M4SH2F456P313XFEFPZ6DK1P",
+    "model": "gpt-image-2-vip",
+    "credits": "0.38",
+    "cost_usd": "0.00190",
+    "source": "User-provided dashboard screenshot; visible task prefix matched to local full task ID",
+    "checkedDate": "2026-10-13",
+    "conversion": "1 credit = USD 0.005 (confirmed by account owner)",
+    "api_billing": null
+  }
+}

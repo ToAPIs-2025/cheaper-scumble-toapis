@@ -1,0 +1,54 @@
+{
+  "date": "2026-10-13",
+  "source": "Account-owner-provided Task Logs screenshot",
+  "usd_per_credit": "0.005",
+  "rows": [
+    {
+      "case": "standard-coral-bowl",
+      "task_id": "tsk_img_01M4SGYRNC4DJ0F9N738RBT3SJ",
+      "model": "gpt-image-2",
+      "credits": "3",
+      "cost_usd": "0.015",
+      "source": "User-provided dashboard screenshot; visible task prefix matched to local full task ID",
+      "checkedDate": "2026-10-13",
+      "conversion": "1 credit = USD 0.005 (confirmed by account owner)",
+      "api_billing": null
+    },
+    {
+      "case": "vip-low-coral-bowl",
+      "task_id": "tsk_img_01M4SH0H4KEX70GTADS98DE7NK",
+      "model": "gpt-image-2-vip",
+      "credits": "0.38",
+      "cost_usd": "0.00190",
+      "source": "User-provided dashboard screenshot; visible task prefix matched to local full task ID",
+      "checkedDate": "2026-10-13",
+      "conversion": "1 credit = USD 0.005 (confirmed by account owner)",
+      "api_billing": null
+    },
+    {
+      "case": "vip-low-dark-bowl",
+      "task_id": "tsk_img_01M4SH1BK5HTWKQNKVZFQQDKE1",
+      "model": "gpt-image-2-vip",
+      "credits": "0.38",
+      "cost_usd": "0.00190",
+      "source": "User-provided dashboard screenshot; visible task prefix matched to local full task ID",
+      "checkedDate": "2026-10-13",
+      "conversion": "1 credit = USD 0.005 (confirmed by account owner)",
+      "api_billing": null
+    },
+    {
+      "case": "vip-low-interior-bowl",
+      "task_id": "tsk_img_01M4SH2F456P313XFEFPZ6DK1P",
+      "model": "gpt-image-2-vip",
+      "credits": "0.38",
+      "cost_usd": "0.00190",
+      "source": "User-provided dashboard screenshot; visible task prefix matched to local full task ID",
+      "checkedDate": "2026-10-13",
+      "conversion": "1 credit = USD 0.005 (confirmed by account owner)",
+      "api_billing": null
+    }
+  ],
+  "total_credits": "4.14",
+  "total_usd": "0.02070",
+  "unresolved_attempt": "A separate first Scumble submission returned no task ID; not present in this screenshot. Acceptance and cost remain unknown."
+}

@@ -1,0 +1,24 @@
+[
+  {
+    "id": "standard-coral-bowl",
+    "route": "standard",
+    "prompt": "Commercial product photography of one matte coral-orange ceramic bowl with a low sculptural foot, seen from a front three-quarter angle on a pale travertine plinth. Warm cream studio, soft morning light, subtle contact shadow, crisp ceramic texture, square composition, one product, no text, no logo, no watermark."
+  },
+  {
+    "id": "vip-low-coral-bowl",
+    "route": "vip-low",
+    "prompt": "Commercial product photography of one matte coral-orange ceramic bowl with a low sculptural foot, seen from a front three-quarter angle on a pale travertine plinth. Warm cream studio, soft morning light, subtle contact shadow, crisp ceramic texture, square composition, one product, no text, no logo, no watermark."
+  },
+  {
+    "id": "vip-low-dark-bowl",
+    "route": "vip-low",
+    "input": "vip-low-coral-bowl/result.png",
+    "prompt": "Keep the coral-orange ceramic bowl and recognizable low-foot silhouette from the reference. Change the scene to a charcoal photography studio, subtle orange rim light and dark stone pedestal. One product, square composition, natural contact shadow, no text, no logo."
+  },
+  {
+    "id": "vip-low-interior-bowl",
+    "route": "vip-low",
+    "input": "vip-low-coral-bowl/result.png",
+    "prompt": "Keep the coral-orange ceramic bowl from the reference and place it on a calm oak dining table in a sunlit warm-beige interior. Soft linen curtain shadows, no other products, no text, no logos, square lifestyle product photography. Preserve the recognizable coral glaze and shape; change the environment."
+  }
+]

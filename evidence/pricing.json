@@ -1,0 +1,175 @@
+{
+  "checkedDate": "2026-10-13",
+  "quoteRecords": {
+    "gpt-image-2": {
+      "model": "gpt-image-2",
+      "http": 200,
+      "data": {
+        "currency": "USD",
+        "data": [
+          {
+            "id": "gpt-image-2",
+            "prices": [
+              {
+                "charge_type": "per_request",
+                "conditions": {
+                  "n": 1,
+                  "resolution": "1K"
+                },
+                "group": "default",
+                "price_basis": "request",
+                "unit": "request",
+                "unit_price": "0.015"
+              },
+              {
+                "charge_type": "per_request",
+                "conditions": {
+                  "n": 1,
+                  "resolution": "4K"
+                },
+                "group": "default",
+                "price_basis": "request",
+                "unit": "request",
+                "unit_price": "0.025"
+              },
+              {
+                "charge_type": "per_request",
+                "conditions": {
+                  "n": 1,
+                  "resolution": "2K"
+                },
+                "group": "default",
+                "price_basis": "request",
+                "unit": "request",
+                "unit_price": "0.02"
+              }
+            ],
+            "type": "image"
+          }
+        ],
+        "has_more": false,
+        "next_after": "",
+        "object": "list"
+      }
+    },
+    "gpt-image-2-vip": {
+      "model": "gpt-image-2-vip",
+      "http": 200,
+      "data": {
+        "currency": "USD",
+        "data": [
+          {
+            "id": "gpt-image-2-vip",
+            "prices": [
+              {
+                "charge_type": "per_request",
+                "conditions": {
+                  "quality": "low",
+                  "resolution": "1K"
+                },
+                "group": "default",
+                "price_basis": "request",
+                "unit": "request",
+                "unit_price": "0.0019"
+              },
+              {
+                "charge_type": "per_request",
+                "conditions": {
+                  "quality": "low",
+                  "resolution": "2K"
+                },
+                "group": "default",
+                "price_basis": "request",
+                "unit": "request",
+                "unit_price": "0.00425"
+              },
+              {
+                "charge_type": "per_request",
+                "conditions": {
+                  "quality": "low",
+                  "resolution": "4K"
+                },
+                "group": "default",
+                "price_basis": "request",
+                "unit": "request",
+                "unit_price": "0.00525"
+              },
+              {
+                "charge_type": "per_request",
+                "conditions": {
+                  "quality": "medium",
+                  "resolution": "1K"
+                },
+                "group": "default",
+                "price_basis": "request",
+                "unit": "request",
+                "unit_price": "0.0169"
+              },
+              {
+                "charge_type": "per_request",
+                "conditions": {
+                  "quality": "medium",
+                  "resolution": "2K"
+                },
+                "group": "default",
+                "price_basis": "request",
+                "unit": "request",
+                "unit_price": "0.03725"
+              },
+              {
+                "charge_type": "per_request",
+                "conditions": {
+                  "quality": "medium",
+                  "resolution": "4K"
+                },
+                "group": "default",
+                "price_basis": "request",
+                "unit": "request",
+                "unit_price": "0.04725"
+              },
+              {
+                "charge_type": "per_request",
+                "conditions": {
+                  "quality": "high",
+                  "resolution": "1K"
+                },
+                "group": "default",
+                "price_basis": "request",
+                "unit": "request",
+                "unit_price": "0.0675"
+              },
+              {
+                "charge_type": "per_request",
+                "conditions": {
+                  "quality": "high",
+                  "resolution": "2K"
+                },
+                "group": "default",
+                "price_basis": "request",
+                "unit": "request",
+                "unit_price": "0.14905"
+              },
+              {
+                "charge_type": "per_request",
+                "conditions": {
+                  "quality": "high",
+                  "resolution": "4K"
+                },
+                "group": "default",
+                "price_basis": "request",
+                "unit": "request",
+                "unit_price": "0.189"
+              }
+            ],
+            "type": "image"
+          }
+        ],
+        "has_more": false,
+        "next_after": "",
+        "object": "list"
+      }
+    }
+  },
+  "qualityComparison": "VIP low vs standard fixed quality; images may differ",
+  "actualCharges": "not independently verified"
+}

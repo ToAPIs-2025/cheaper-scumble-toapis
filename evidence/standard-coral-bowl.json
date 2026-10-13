@@ -1,0 +1,92 @@
+{
+  "project": "DenRakEiw/scumble",
+  "upstream_sha": "0d0be6b3e41f00e8621af14fe11597eaf258501f",
+  "checkedDate": "2026-10-13",
+  "case": {
+    "id": "standard-coral-bowl",
+    "route": "standard",
+    "prompt": "Commercial product photography of one matte coral-orange ceramic bowl with a low sculptural foot, seen from a front three-quarter angle on a pale travertine plinth. Warm cream studio, soft morning light, subtle contact shadow, crisp ceramic texture, square composition, one product, no text, no logo, no watermark."
+  },
+  "status": "completed",
+  "task_id": "tsk_img_01M4SGYRNC4DJ0F9N738RBT3SJ",
+  "info": {
+    "model": "gpt-image-2",
+    "channel": "standard",
+    "task": "tsk_img_01M4SGYRNC4DJ0F9N738RBT3SJ",
+    "size": "1:1",
+    "resolution": "1k",
+    "cost_usd": null,
+    "credits": null
+  },
+  "elapsed_seconds": 57.77,
+  "sha256": "e638bbf84afa655cdad8a5000e918d8d49083122244dfe9360e20c73dfb6b293",
+  "observations": [
+    {
+      "status": "in_progress",
+      "billing": {
+        "status": "pending"
+      }
+    },
+    {
+      "status": "in_progress",
+      "billing": {
+        "status": "pending"
+      }
+    },
+    {
+      "status": "in_progress",
+      "billing": {
+        "status": "pending"
+      }
+    },
+    {
+      "status": "in_progress",
+      "billing": {
+        "status": "pending"
+      }
+    },
+    {
+      "status": "in_progress",
+      "billing": {
+        "status": "pending"
+      }
+    },
+    {
+      "status": "in_progress",
+      "billing": {
+        "status": "pending"
+      }
+    },
+    {
+      "status": "completed",
+      "billing": null
+    }
+  ],
+  "method": "real upstream ToAPIs provider.generate/edit",
+  "scope": "provider module; Electron canvas and layer export not tested",
+  "postCount": 1,
+  "pixels": [
+    1024,
+    1024
+  ],
+  "billing_recheck": {
+    "project": "Scumble",
+    "task_id": "tsk_img_01M4SGYRNC4DJ0F9N738RBT3SJ",
+    "status": "completed",
+    "billing": null,
+    "checkedDate": "2026-10-13",
+    "http": 200
+  },
+  "actual_cost_usd": "0.015",
+  "actual_charge": {
+    "case": "standard-coral-bowl",
+    "task_id": "tsk_img_01M4SGYRNC4DJ0F9N738RBT3SJ",
+    "model": "gpt-image-2",
+    "credits": "3",
+    "cost_usd": "0.015",
+    "source": "User-provided dashboard screenshot; visible task prefix matched to local full task ID",
+    "checkedDate": "2026-10-13",
+    "conversion": "1 credit = USD 0.005 (confirmed by account owner)",
+    "api_billing": null
+  }
+}
